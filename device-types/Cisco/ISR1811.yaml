@@ -5,6 +5,9 @@ part_number: ISR1811/K9
 slug: cisco-isr1811
 u_height: 1
 is_full_depth: false
+airflow: passive
+weight: 2.80
+weight_unit: kg
 interfaces:
   - name: FastEthernet0
     type: 100base-tx
